@@ -563,9 +563,17 @@ links:
     domain: blog.jalenchuh.cn
     }
     - {        
+    title: '小智のBlog',
+    link: 'https://blog.cuixinyu.icu/',
+    intro: 养不起皮卡丘的小智
+    image: 'https://cdn.jsdelivr.net/gh/cuixinyu0427/resources/img/avatar.png',
+    domain: blog.cuixinyu.icu
+    }
+    - {        
     title: '友链还有空位！',
     link: 'https://github.com/ChenYFan/blog/blob/master/themes/fluid/_config.yml',
     intro: 点我跑去提交PR！,
     image: 'https://unpkg.zhimg.com/chenyfan-oss@1.0.0/pic/%EF%BC%9F.jpg',
     domain: blog.cyfan.top
     }
+    
